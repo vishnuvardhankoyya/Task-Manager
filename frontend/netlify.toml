@@ -14,3 +14,9 @@
     "AWS_EXECUTION_ENV": "AWS_Lambda_python3.9"
     "AWS_LAMBDA_FUNCTION_NAME": "my_function"
   }
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
