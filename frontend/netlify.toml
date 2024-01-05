@@ -3,8 +3,8 @@
   functions = "functions"
   publish = "public"
   node_version = "14"
-  python_version = "3.9" 
-  runtime = "python3.9"
+  python_version = "3.8" 
+  runtime = "python3.8"
   region = "us-east-1"
   role = "arn:aws:iam::1234567890
   :role/lambda-existing-execution-role"
