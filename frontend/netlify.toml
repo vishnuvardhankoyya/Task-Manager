@@ -1,0 +1,6 @@
+[build]
+  command = "python my_build_script.py"
+  functions = "functions"
+  publish = "public"
+  node_version = "14"
+  python_version = "3.12.1"  # Specify your Python version
