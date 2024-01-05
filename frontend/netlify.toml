@@ -1,6 +1,5 @@
 [build]
   command = "python my_build_script.py"
-  command = "python -m pipenv install --dev"
   functions = "functions"
   publish = "public"
   node_version = "14"
