@@ -1,7 +1,8 @@
 [build]
   command = "python my_build_script.py"
+  command = "npm run build"
+  publish = "frontend/dist"
   functions = "functions"
-  publish = "public"
   node_version = "14"
   python_version = "3.8" 
   runtime = "python3.8"
