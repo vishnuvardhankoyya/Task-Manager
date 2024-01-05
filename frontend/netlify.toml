@@ -17,6 +17,6 @@
 
 [[redirects]]
   from = "/*"
-  to = "./src/App.js"
+  to = "./frontend"
   status = 200
 
